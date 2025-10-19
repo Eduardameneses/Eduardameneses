@@ -43,13 +43,13 @@ Eu sou **Eduarda Meneses** 🌸
 
 <p>🌷 Conecte-se comigo nas redes sociais 👇</p>
 
-<a href="https://www.instagram.com/seu_instagram_aqui" target="_blank">
+<a href="https://www.instagram.com/_.flawless.e" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:meneseseduarda80@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/seu_linkedin_aqui/" target="_blank">
+<a href="https://www.linkedin.com/in/maria-eduarda-m-878756219" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
